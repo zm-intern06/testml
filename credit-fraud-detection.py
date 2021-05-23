@@ -3,7 +3,6 @@ import numpy as np
 import matplotlib
 import matplotlib.pyplot as plt
 import seaborn as sns
-%matplotlib inline 
 import plotly.graph_objs as go
 import plotly.figure_factory as ff
 from plotly import tools
